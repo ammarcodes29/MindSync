@@ -1,0 +1,1 @@
+curl https://undraw.co/api/downloads/random --output public/illustration.svg
